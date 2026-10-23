@@ -1,78 +1,96 @@
 {
-  "name": "Pastel Blue",
-  "description": "A soft pastel blue dark theme for Raincord",
+  "name": "Pastel Blue Full Theme",
+  "description": "An all-pastel-blue theme covering backgrounds, panels, and buttons",
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Avyrik"
+      "name": "avyrik"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#12161f"
+      "#e6f0fa"
     ],
     "BACKGROUND_SECONDARY": [
-      "#181e2b"
+      "#d4e6f7"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#131822"
+      "#c2dcf4"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0f121a"
+      "#b0d2f1"
     ],
     "BACKGROUND_ACCENT": [
-      "#212b3d"
+      "#9ec8ee"
     ],
     "BACKGROUND_FLOATING": [
-      "#181e2b"
+      "#f2f7fc"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#12161f"
+      "#e6f0fa"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#181e2b"
+      "#d4e6f7"
     ],
     "HEADER_PRIMARY": [
-      "#dcebfa"
+      "#2c4a6f"
     ],
     "HEADER_SECONDARY": [
-      "#a3c7eb"
+      "#3d6391"
     ],
     "TEXT_NORMAL": [
-      "#dcebfa"
+      "#2c4a6f"
     ],
     "TEXT_MUTED": [
-      "#7a9ebc"
+      "#5c7d9e"
     ],
     "TEXT_LINK": [
-      "#b0d5fd"
+      "#3385ff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#a3c7eb"
+      "#3d6391"
     ],
     "INTERACTIVE_HOVER": [
-      "#b0d5fd"
+      "#2c4a6f"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#c7e2fe"
+      "#1a304b"
     ],
     "INTERACTIVE_MUTED": [
-      "#485e75"
+      "#8aaac7"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND": [
+      "#4a89dc"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+      "#3b72bd"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": [
+      "#2e5c98"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#b0d2f1"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#9ec8ee"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#8dbef0"
     ]
   },
   "rawColors": {
-    "BRAND_260": "#dcebfa",
-    "BRAND_360": "#c7e2fe",
-    "BRAND_500": "#b0d5fd",
-    "BRAND_560": "#a3c7eb",
-    "BRAND_600": "#8bb5e0",
-    "PRIMARY_100": "#dcebfa",
-    "PRIMARY_200": "#a3c7eb",
-    "PRIMARY_300": "#7a9ebc",
-    "PRIMARY_600": "#181e2b",
-    "PRIMARY_630": "#131822",
-    "PRIMARY_700": "#12161f",
-    "PRIMARY_800": "#0f121a"
+    "BRAND_260": "#9ec8ee",
+    "BRAND_360": "#b0d2f1",
+    "BRAND_500": "#4a89dc",
+    "BRAND_560": "#3b72bd",
+    "BRAND_600": "#2e5c98",
+    "PRIMARY_100": "#2c4a6f",
+    "PRIMARY_200": "#3d6391",
+    "PRIMARY_300": "#5c7d9e",
+    "PRIMARY_600": "#c2dcf4",
+    "PRIMARY_630": "#d4e6f7",
+    "PRIMARY_700": "#e6f0fa",
+    "PRIMARY_800": "#f2f7fc"
   }
 }
